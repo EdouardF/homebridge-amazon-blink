@@ -30,7 +30,7 @@
         "@adobe/fetch": "^3.2.1",
         "@homebridge/camera-utils": "^2.1.0",
         "@homebridge/plugin-ui-utils": "^0.0.19",
-        "commander": "^9.1.0",
+        "commander": "^11.0.0",
         "ffmpeg-for-homebridge": "^0.1.0"
     },
     "devDependencies": {
