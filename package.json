@@ -27,7 +27,7 @@
         "homebridge": ">=1.4.0"
     },
     "dependencies": {
-        "@adobe/fetch": "^3.2.1",
+        "@adobe/fetch": "^4.1.0",
         "@homebridge/camera-utils": "^2.1.0",
         "@homebridge/plugin-ui-utils": "^0.0.19",
         "commander": "^11.0.0",
